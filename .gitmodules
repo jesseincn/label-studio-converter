@@ -1,0 +1,4 @@
+[submodule "label-studio-tools"]
+	path = label-studio-tools
+	url = https://github.com/heartexlabs/label-studio-tools.git
+	branch = release/0.0.1
